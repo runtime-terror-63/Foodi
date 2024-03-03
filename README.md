@@ -1,4 +1,4 @@
-#### Foodi - Restaurant Website Project 🍽️
+## Foodi - Restaurant Website Project 🍽️
 
 Welcome to the Foodi project! This project is designed to guide you through the process of creating a dynamic and user-friendly restaurant website using the MERN Stack (MongoDB, Express.js, React.js, and Node.js) along with Tailwind CSS for modern and responsive design.
 
