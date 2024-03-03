@@ -44,10 +44,10 @@ const Navbar = () => {
               <a href="/menu">All</a>
             </li>
             <li>
-              <a>Salad</a>
+              <a href="/menu">Salad</a>
             </li>
             <li>
-              <a>Pizza</a>
+              <a href="/menu">Pizza</a>
             </li>
           </ul>
         </details>
@@ -70,7 +70,8 @@ const Navbar = () => {
       </li>
       <li>
         <Link to="/contact-us">
-        <a>Contact Us</a></Link>
+          <a>Contact Us</a>
+        </Link>
       </li>
     </>
   );
