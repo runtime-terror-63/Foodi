@@ -1,4 +1,4 @@
-![image](https://github.com/runtime-terror-63/Foodi/assets/94905513/2a23fb7a-578e-4948-bc75-e77ef2d6aa07)# Foodi - Restaurant Website Project 🍽️
+### Foodi - Restaurant Website Project 🍽️
 
 Welcome to the Foodi project! This project is designed to guide you through the process of creating a dynamic and user-friendly restaurant website using the MERN Stack (MongoDB, Express.js, React.js, and Node.js) along with Tailwind CSS for modern and responsive design.
 
