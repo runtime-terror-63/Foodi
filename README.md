@@ -35,7 +35,7 @@ To get started with this project, follow these steps:
 3. Set up Firebase authentication and obtain necessary credentials.
 4. Configure MongoDB database connection.
 5. Customize the project to fit your specific requirements.
-6. Run the project locally using `npm start` for both frontend and backend.
+6. Run the project locally using `npm run dev` for frontend and `npm start` for backend.
 
 For detailed instructions on setting up and running the project, refer to the project documentation.
 
