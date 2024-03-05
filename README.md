@@ -32,6 +32,10 @@ This project aims to provide a comprehensive solution for building a restaurant 
 
 ![image](https://github.com/runtime-terror-63/Foodi/assets/94905513/6ad46577-ffd9-49df-8543-f37f477a548b)
 
+![image](https://github.com/runtime-terror-63/Foodi/assets/94905513/ffbc432d-c992-4747-8886-24413a6d898a)
+
+![image](https://github.com/runtime-terror-63/Foodi/assets/94905513/a14ad886-24f7-4e0f-a587-d796bcf184f8)
+
 ![image](https://github.com/runtime-terror-63/Foodi/assets/94905513/08a069bd-f981-4a75-b744-6717f8db1f3f)
 
 ![image](https://github.com/runtime-terror-63/Foodi/assets/94905513/7ba34cbc-be33-4e4e-b69a-d5c15d2f12d8)
