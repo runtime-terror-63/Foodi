@@ -1,5 +1,8 @@
 ## Foodi - Restaurant Website Project 🍽️
 
+![White and Yellow India Travel Vlog YouTube Thumbnail (3)](https://github.com/runtime-terror-63/Foodi/assets/94905513/a246e105-fa1c-467d-b4a9-9d67fcb3ff8d)
+
+
 Welcome to the Foodi project! This project is designed to guide you through the process of creating a dynamic and user-friendly restaurant website using the MERN Stack (MongoDB, Express.js, React.js, and Node.js) along with Tailwind CSS for modern and responsive design.
 
 ## Backend repository [Backend](https://github.com/runtime-terror-63/Foodi-server)
