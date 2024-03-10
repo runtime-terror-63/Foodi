@@ -50,7 +50,7 @@ This project aims to provide a comprehensive solution for building a restaurant 
 ![image](https://github.com/runtime-terror-63/Foodi/assets/94905513/7ba34cbc-be33-4e4e-b69a-d5c15d2f12d8)
 
 
-## [Demo]([https://github.com/runtime-terror-63/Foodi-server](https://youtu.be/mv-NWaBglJU))
+## [Demo]((https://youtu.be/mv-NWaBglJU))
 
 ## Getting Started 🌟🌟
 
