@@ -2,7 +2,7 @@
 
 Welcome to the Foodi project! This project is designed to guide you through the process of creating a dynamic and user-friendly restaurant website using the MERN Stack (MongoDB, Express.js, React.js, and Node.js) along with Tailwind CSS for modern and responsive design.
 
-## Backend repository [Link Backend](https://github.com/runtime-terror-63/Foodi-server)
+## Backend repository [Backend](https://github.com/runtime-terror-63/Foodi-server)
 ## Overview
 
 This project aims to provide a comprehensive solution for building a restaurant website with essential functionalities including authentication, admin panel, online food ordering system, payment processing, image hosting, and order management. Whether you're a beginner or an experienced web developer, this tutorial will help you create a robust and feature-rich restaurant website tailored to your specific needs.
@@ -50,7 +50,7 @@ This project aims to provide a comprehensive solution for building a restaurant 
 ![image](https://github.com/runtime-terror-63/Foodi/assets/94905513/7ba34cbc-be33-4e4e-b69a-d5c15d2f12d8)
 
 
-
+## [Demo]([https://github.com/runtime-terror-63/Foodi-server](https://youtu.be/mv-NWaBglJU))
 
 ## Getting Started 🌟🌟
 
